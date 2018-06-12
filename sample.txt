@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main(void){
-print("my name");
+print("aa");
 return0;
 }
